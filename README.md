@@ -94,5 +94,32 @@ This wireframe from the Airbnb clone project is a low-fidelity wireframe.
 It focuses on the structural layout of key UI elements such as the header, search bar, property listings, and navigation menu. 
 The design uses simple boxes and placeholder text to represent content without applying any color, branding, or interactivity.
 This makes it ideal for early-stage design discussions and layout validation before moving to high-fidelity mockups.
+## Popular Wireframing Tools
+
+Choosing the right wireframing tool is essential for creating effective designs and collaborating with teams. Below are some widely used wireframing tools:
+
+- **Figma**
+- Adobe XD
+- Sketch
+- Balsamiq
+- Wireframe.cc
+- Lucidchart
+
+### Figma 
+
+**Figma** is a cloud-based interface design tool widely favored for its powerful wireframing, prototyping, and collaboration features. It enables designers and teams to work together in real time from any device with internet access.
+
+**Key Features:**
+- **Browser-based**: No installation required, works on any platform.
+- **Real-time collaboration**: Multiple team members can edit and comment simultaneously.
+- **Reusable components**: Design systems and UI kits can be created for consistency.
+- **Interactive prototyping**: Link wireframes to simulate user flows and transitions.
+- **Version history**: Keep track of design changes and revert when needed.
+
+**Why It's Useful for Wireframing:**
+Figma’s intuitive interface and collaborative features make it ideal for creating both low-fidelity and high-fidelity wireframes. Designers can quickly mock up ideas, share them with stakeholders, and iterate based on feedback—all within the same tool.
+
+Whether you’re sketching early concepts or building detailed wireframes for development, Figma streamlines the workflow and enhances team communication.
+
 
 
