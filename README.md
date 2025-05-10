@@ -56,5 +56,43 @@ Content placement involves determining where text, images, videos, and other med
 Functionality covers the interactive elements such as buttons, forms, sliders, and links. It demonstrates how users will interact with the interface.
 
 **Example:** A wireframe for a login page might include input fields for email and password, a “Forgot Password” link, and a “Login” button. These elements show the intended user actions and flow.
+## Types of Wireframes
+
+Wireframes can be categorized into two main types: **low-fidelity** and **high-fidelity**. Each serves a different purpose and is used at different stages of the design process.
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are simple, rough sketches—either on paper or digital—that focus on layout and structure rather than detail. They are quick to create and useful for brainstorming and early-stage ideation.
+
+**Used When:**
+- Beginning of the design process
+- Gathering feedback from stakeholders
+- Exploring different layout options
+
+**Key Characteristics:**
+- Black-and-white or grayscale
+- Basic shapes and placeholder text
+- No styling or branding
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and closely resemble the final product in terms of layout, spacing, typography, and even some interactive behaviors. They are often created using digital tools and may be used to guide development.
+
+**Used When:**
+- Later in the design process
+- Preparing for usability testing
+- Handing off to developers
+
+**Key Characteristics:**
+- Accurate spacing and alignment
+- Real or near-final content
+- Detailed annotations
+- ## Wireframe Type Explained
+
+**Wireframe Type:** Low-Fidelity Wireframe
+
+**Reason:**  
+This wireframe from the Airbnb clone project is a low-fidelity wireframe. 
+It focuses on the structural layout of key UI elements such as the header, search bar, property listings, and navigation menu. 
+The design uses simple boxes and placeholder text to represent content without applying any color, branding, or interactivity.
+This makes it ideal for early-stage design discussions and layout validation before moving to high-fidelity mockups.
 
 
